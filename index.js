@@ -1,5 +1,5 @@
 
-const url = "mongodb+srv://varun:varun123@cluster0.fyeln.mongodb.net//Mern-Expense";
+const url = "mongodb+srv://varun:varun123@cluster0.fyeln.mongodb.net/Mern-Expense";
 const express = require('express');
 const app = express();
 const mongoose = require('mongoose');
